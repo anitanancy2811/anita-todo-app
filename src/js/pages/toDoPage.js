@@ -1,4 +1,4 @@
-import directory from '../components/cards/directory'
+import directory from '../components/cards/home'
 
 import { getStore } from '../redux/store';
 import todoItem from '../components/cards/todoItem';

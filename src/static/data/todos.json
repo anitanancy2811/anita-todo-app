@@ -1,0 +1,27 @@
+[
+    {
+        "category":"school",
+        "description":"Home work",
+        "isComplete":false
+    },
+    {
+        "category":"medical",
+        "description":"dentist appoitment",
+        "isComplete":false
+    },
+    {
+        "category":"dance",
+        "description":"Dance Class",
+        "isComplete":true
+    },
+    {
+        "category":"gym",
+        "description":"Gym Class",
+        "isComplete":false
+    },
+    {
+        "category":"swimming",
+        "description":"swimming Class",
+        "isComplete":true
+    }
+  ]

@@ -1,0 +1,50 @@
+li.todo-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    margin: 1rem 0.5rem;
+     border-radius: 0.5rem;
+    background-color: #fff;
+}
+
+li.todo-item h3 {
+   
+    font-size: 1.5rem;
+}
+
+li.todo-item p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+li.todo-item div:last-of-type {
+    display: flex;
+}
+
+li .is-complete {
+    color: #9e1800;
+}
+
+.todo-item svg {
+    width: 1.7rem;
+    margin-left: 0.5rem;
+}
+
+.school {
+    border-left: 1rem solid bisque;
+}
+
+.medical {
+    border-left: 1rem solid blueviolet;
+}
+
+.dance {
+    border-left: 1rem solid teal;
+}
+
+.gym {
+    border-left: 1rem solid yellowgreen;
+}
+
+.swimming {
+    border-left: 1rem solid olivedrab;
+}

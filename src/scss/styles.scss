@@ -1,0 +1,26 @@
+@use 'reboot';
+@use 'page-header';
+@use 'todo-item';
+
+body {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.todos,
+.add-item {
+    background-color: pink;
+    padding: 1rem 0.2rem;
+}
+
+.add-item {
+    display: flex;
+    padding-top: 0;
+}
+
+.add-item svg {
+    width: 3rem;
+    margin-left: auto;
+    margin-right: 1rem;
+    fill: rgb(24, 24, 24);
+}
